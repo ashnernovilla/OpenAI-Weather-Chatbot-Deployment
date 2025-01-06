@@ -13,7 +13,6 @@ import openai
 import requests
 from nltk.corpus import stopwords
 import string
-import nltk
 
 # print(openai.__version__)
 # print(nltk.__version__)
