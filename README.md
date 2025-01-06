@@ -15,7 +15,7 @@ This project is a **Proof of Concept (PoC)** showcasing a weather chatbot built 
 ---
 
 ## Demo
-![Weather Chatbot Demo](demo-image-placeholder.png)
+![image](https://github.com/user-attachments/assets/5c9d66a6-e339-4e27-9264-4b2d7d1a4270)
 *(Replace this placeholder with a screenshot or GIF of your application in action)*
 
 ---
