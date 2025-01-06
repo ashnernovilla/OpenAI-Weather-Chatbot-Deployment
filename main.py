@@ -11,6 +11,8 @@ from time import sleep
 import os
 import openai
 import requests
+import nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 import string
 
